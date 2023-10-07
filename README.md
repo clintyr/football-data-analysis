@@ -16,10 +16,12 @@ A repository for exploratory analysis of European football league data using SQL
 I utilized the ["European Soccer Database"](https://www.kaggle.com/datasets/hugomathien/soccer) from Kaggle. The database tracks fixture data from the 2008/09 season through to 2015/16, detailing over 25,000 matches and 11,000 players across 11 European top-flight leagues. There is also information about each of 296 teams, as well as player attributes originating from the FIFA video game series.
 
 ### Methodology
+- Things to consider:
 
-1. What does the data look like?
-2. What is interesting about this data?
-3. What can we learn from the data?
+  1. What does the data look like?
+  2. What is interesting about this data?
+  3. What can we learn from the data?
+- Data cleaning, visualization and analysis
 
 ### Questions Explored
 
